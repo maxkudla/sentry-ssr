@@ -1,0 +1,14 @@
+{
+  "name": "sentry-ssr",
+  "version": "0.0.1",
+  "description": "Sentry wrapper for server side rendering",
+  "main": "index.js",
+  "repository": "git@github.com:maxkudla/sentry-ssr.git",
+  "author": "Max Kudla",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/browser": "^6.11.0",
+    "@sentry/node": "^6.11.0",
+    "browser-or-node": "^1.3.0"
+  }
+}
